@@ -1,0 +1,169 @@
+
+---
+
+output: 
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    nature:
+        highlightStyle: github
+        highlightLines: true
+        countIncrementalSlides: false
+---
+
+class: middle right 
+<style>
+
+.center2 {
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+</style>
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#1B4F72", 
+  secondary_color = "#0E6251",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+
+
+# **Les acquis du projet 2019**
+
+## parce que rendre compte est primordial
+
+---
+
+## Le bilan du projet 2019 
+
+### Projet 1: Bourse d'étude pour les meilleurs élèves
+
+* Il y a eu plusieurs actions de lobbying menées y compris le dîner gala et le dîner pour les 100 pourcents.
+
+* Sur ce projet également, le Conseil d'administration a assisté directement ou par lettre recommandée plusieurs AS admis dans certaines écoles en Europe et en Asie notamment soit dans le cadre de la facilitation des dossiers d'admission soit en termes de soutien financier direct. Le Conseil d'administration se felicite ainsi d'avoir assisté une dizaine D'AS dans cette situation en 2 ans de mandat.
+
+* Aussi, grâce à l'organisation du dernier Dîner 100%, avec l'aide de l'aîné Moussa Kouyate, la connexion est établie avec le Ministre Abdourahmane Cissé et des discussions sont en cours pour l'obtention de bourses d'études étrangères pour les meilleurs parmi les AS44.
+
+* Le Ministre a d'ailleurs communiqué lors du dîner sur un dispositif déjà existant au niveau de la Présidence auquel nos cadets pourront soumissionner bien sûr avec l'aide du Conseil d’Administration de la 2ALSY.
+
+---
+
+## Le bilan du projet 2019 
+
+### Projet 2: Coaching d'entrée dans les écoles supérieures prestigieuses
+
+* Il y a eu des actions de soutien aux cadets admissibles aux grandes écoles européennes et nord-américaines. 
+
+* Avec notamment des aides pour le respect des conditions financières des admissibles (mise en contact avec des garants issus de la diaspora par exemple). 
+
+* Il y a aussi eu 5 séances de coaching des étudiants du lycée pilotée par la Commission Etudes et admission 
+
+---
+
+## Le bilan du projet 2019 
+
+### Projet 3: Ouvrir un laboratoire informatique et un laboratoire de langues
+
+* Grâce à notre action auprès des Aînés, 2 salles informatiques ont été offertes par l'aîné Moussa Kouyaté en plus du don de salles informatiques fait par Feu le PM AGC. 
+
+* Sur le laboratoire de langue aussi, grâce à la Coopération Chinoise, le mandarin a été adopté pour être enseigné au LSY dans les salles informatiques offertes. 
+
+---
+
+## Le bilan du projet 2019 
+
+### Projet 4: Réhabilitation des bâtiments du lycée scientifique
+
+* La 2alsy a poursuivi les échanges avec le Gouvernement via le Ministère de l'éducation nationale et grâce à l'implication de plusieurs Aînés comme le DG du BNETD, Le ministre Diarrassouba et Danho Paulin pour ne citer que ceux là et surtout grâce à la mobilisation des AS en termes de communication, l'accord cadre a été signé avec l'AFD pour réhabiliter le Lycée. C'est officiel.
+
+* Avec des propositions solides, les pouvoirs publics ont compris l'urgente nécessité de nous associer en termes de réflexions stratégiques sur le Management Post-Réhabilitation du Lycée. C'est une avancée majeure.
+
+---
+
+## Le bilan du projet 2019
+
+### Projet 5: Équiper l'amicale d'outils qui fonctionnent
+
+* (i) Siège pour cotisations et tâches administratives: Cette gestion a été efficiente parce que, malgré les conditions financières limitées qui ont mis à mal le projet "siège", l'on a reussi à innover avec une collecte effective des cotisations et de la gestion administrative grâce notamment à une stratégie financière agressive (goodies, paliers de paiement, contrepartie en place au dîner) mise en place par le leadership (dizaines de millions collectés). 
+
+* (ii) site internet: malgré la covid qui a fait changer énormement les priorités, le site a été créé, et il y a eu une excellente refonte des moyens de communication qui a permis une meilleure identité visuelle de l'association: résultat: plus de 1000 nouvelles adhésions au groupe Facebook, bon de plusieurs centaines de likes. Ceci est extremement important en cet age de l'information.
+
+---
+
+## Le bilan du projet 2019
+
+### Projet 6: Créer un incubateur de start up pour l'amicale
+
+* Ceci a aussi été impacté par le changement de priorité mentionné ci dessus ainsi que par les contraintes financières (ces activités devraient se faire au siege). 
+
+* Cependant les masters class organisées ont eu un impact sur les entrepreneurs et autres professionnels. Ce projet reste tout de meme d'actualité dans la mesure du possible financier.
+
+---
+
+## Le bilan du projet 2019
+
+### Projet 7: Salon annuel de l'orientation et de l'emploi
+
+* Ceci a aussi été impacté par le changement de priorité mentionné ci dessus.
+
+* Ici aussi les masters class organisées ont eu un impact sur les étudiant en termes d'orientation.
+
+---
+
+## Le bilan du projet 2019
+
+### Projet 8: Mentoring entre les élèves et les alumnis du LSY
+
+* La covid a rendu un tel exercice difficile. Cependant, la formation de recherche d'emploi organisée par le président y compris sa prise en charge des photos professionnels des AS qui en avaient besoin, montre la bonne foi de la gestion en ce sens. 
+
+* Toujours aspect covid, on ne peut pas faire certaines choses en ligne dans un pays où les concernés (étudiants) n'ont pas une connexion internet excellente. 
+
+* La bonne foi de la 2alsy s'exprime aussi par la cérémonie gala des 100 pourcents a été organisée dès que possible et avait pour but justement d'offrir une référence et des partenariats au profit des cadets (le président dira comment cela avance)
+
+---
+
+## Le bilan du projet 2019
+
+### Projet 9: Création des clubs et des rencontres à thèmes
+
+* La 2lsy dispose aujourd'hui de 13 Clubs thématiques qui fonctionnent correctement. 
+
+* Des opportunités sectorielles y sont partagées et les AS des secteurs similaires ont renforcé leurs contacts via ce canal simple mais terriblement efficaces. 
+
+* 5 Masterclass thématiques ont aussi été organisées avec des participations tutoyant les 100 personnes  participantes en moyenne par Masterclass.
+
+---
+
+## Le bilan du projet 2019
+
+### Projet 10: Création des clubs et des rencontres à thèmes
+
+* Il y a eu de nombreux appuis aux AS et l'on n'ira pas dans le détail pour le respect des concernés mais tout AS aura pu voir les appuis apportés à nos confreres dans l'affliction. 
+
+* Il y a aussi eu la spectaculaire implication de la diaspora (2alsy Amérique du nord par exemple) dans le soutien aux AS dans le besoin. 
+
+---
+
+## **Alors pourquoi voter pour l'équipe Doungnan**?
+
+L'équipe Doungnan pour <font color='red'>trois</font>  point majeurs.     
+
+* Une gestion du coeur: avec un succès au niveau social et une grande aide à l'excellence
+
+* Une gestion efficiente: Il y a eu la réalisation des objectifs de gestion efficiente et de bonne santé financière sans avoir eu à investir dans le siège. La gestion a pu faire le mieux possible avec les ressources disponibles. Tout l'argent attendu n'a pas pu être collecté, mais les résultats finaux attendus (contribution de la 2alsy) tel que les 100 pourcent et l'augmentation de la « street cred » de la 2alsy ont été réalisés.
+
+* Une gestion dynamique: La gestion a su s'adapter et le mot dynamique dans la campagne dernière a pris tout son sens: La gestion a pu s'adapter à des facteurs exogènes tel que la covid et le fait qu'il ait été déconseillé par les autorités publiques d'aller vers les partenaires privés. cette dynamique a permis de réaliser les résultats attendus pour la 2alsy et les étudiants de l'école.
+
+---
+class: middle right 
+## **Merci pour le soutien renouvelé**
